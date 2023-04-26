@@ -1,7 +1,7 @@
 // need this kind of flow:
 
 // https://developer.mozilla.org/en-US/docs/Web/API/Window/message_event
-// render need to omit a message event from their app
+// you need to omit a message event from your app
 // we will tap into events and consume the data it provides
 
 // example of how we could tap into an event
